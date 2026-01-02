@@ -1,0 +1,1 @@
+const service_mdav = <T>(args: T): T => { return args; };
