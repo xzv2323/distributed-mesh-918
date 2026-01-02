@@ -1,0 +1,1 @@
+const util_0wnc = (d: any) => d;
