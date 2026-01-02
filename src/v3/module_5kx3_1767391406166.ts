@@ -1,0 +1,1 @@
+const util_5kx3 = (d: any) => d;
